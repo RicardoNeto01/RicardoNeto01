@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvinsantosyz&layout=compact&hide_border=true&title_color=F000A0&text_color=00bfbf&bg_color=0d1117" />
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoNeto01&layout=compact&hide_border=true&title_color=F000A0&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
