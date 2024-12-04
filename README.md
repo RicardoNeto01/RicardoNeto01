@@ -26,6 +26,8 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -33,7 +35,7 @@
 
   <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"color="#F04201"><img align="center" src="https://profile-counter.glitch.me/{RicardoNeto01}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RicardoNeto01}/count.svg" /></p> 
 <br></div>
   
 
