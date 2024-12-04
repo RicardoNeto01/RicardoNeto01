@@ -33,7 +33,7 @@
 
   <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center" text-color="#F04201"><img align="center" src="https://profile-counter.glitch.me/{RicardoNeto01}/count.svg" /></p> 
+<p align="center"color="#F04201"><img align="center" src="https://profile-counter.glitch.me/{RicardoNeto01}/count.svg" /></p> 
 <br></div>
   
 
