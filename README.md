@@ -33,10 +33,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-  <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RicardoNeto01}/count.svg" /></p> 
-<br></div>
+  <div style="text-align: center; color: white;">
+  <p><b>Visitors Count</b></p>  
+  <p><img align="center" src="https://profile-counter.glitch.me/{RicardoNeto01}/count.svg" /></p> 
+</div>
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#F04201&height=120&section=footer"/>
